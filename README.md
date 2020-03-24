@@ -1,6 +1,6 @@
 # PowerShell-Workstation-Audit-Script
 
-A PowerShell script which can be copied/pasted into a PowerShell console window and retrieve auditable workstation configuration settings. This script only runs a series a queries (it does not make any modifications) and then creates a folder with a text document on the user's desktop named after the computer name which can then be zipped and uploaded to your favorite auditor :)
+A PowerShell script which can be copied/pasted into a PowerShell console window and retrieve auditable workstation configuration settings. This script only runs a series a queries (it does not make any modifications) and then creates a folder with a text document on the user's desktop named after the computer name which can then be zipped and uploaded as supporting documentation.
 
 This script may need to be run on each workstaiton being audited seperately. Simply copy the entire blob of text below and paste into a PowerShell window in administrative mode.
 
