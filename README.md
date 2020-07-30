@@ -4,7 +4,7 @@
 
 \# PLEASE NOTE:
 
-\# This script needs to be run under the workstation user's profile on each workstaiton being audited seperately. (Logging in as a domain admin and running the script will generate incomplete results and require the script to be run again)
+\# This script needs to be run as an admin on each workstation being audited seperately.
 
 \# Search for: c:\windows\system32\windowspowershell\v1.0\powershell.exe, right click the application result and select "run as administrator".
 
